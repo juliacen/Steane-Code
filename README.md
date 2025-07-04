@@ -1,6 +1,6 @@
 # Steane's Code Under Random Pauli Error
 
-This repository contains a Jupyter notebook that demonstrates the construction and simulation of the **Steane Code**, a foundational [[7,1,3]] quantum error-correcting code. The notebook applies random Pauli errors to encoded quantum states and explores how Steane's code detects and corrects these errors, estimating the overall success probability.
+This repository contains a Jupyter notebook that demonstrates the construction and simulation of **Steane's** quantum error-correfcting, [[7,1,3]] code. The notebook applies random Pauli X,Y or Z error with probability (\ p\leq 3 \) to encoded quantum states and explores how Steane's code detects and corrects these errors, estimating the overall success probability.
 
 ## Overview
 
